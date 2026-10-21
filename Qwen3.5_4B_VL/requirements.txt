@@ -1,0 +1,11 @@
+# Qwen-specific environment; see environment-observed.txt for installed versions.
+torch==2.6.0
+pandas==2.2.3
+numpy==2.1.2
+scikit-learn==1.6.1
+Pillow==11.1.0
+tqdm==4.67.1
+accelerate==1.15.0
+huggingface-hub==2.2.0
+modelscope==1.40.2
+transformers @ git+https://github.com/huggingface/transformers.git@536ecc007387a50e77603bb5d92100e9b07514cc

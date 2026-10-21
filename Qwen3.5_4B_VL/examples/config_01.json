@@ -1,0 +1,17 @@
+{
+  "growth": [
+    "image24.png",
+    "image180.jpg",
+    "image65.png"
+  ],
+  "stabilization": [
+    "image130.png",
+    "image35.png",
+    "image102.png"
+  ],
+  "disintegration": [
+    "image87.png",
+    "image125.png",
+    "image30.png"
+  ]
+}

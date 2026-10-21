@@ -1,0 +1,30 @@
+# Model weights and inference offload files
+**/models/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+*.joblib
+*.pkl
+# Runtime results and logs
+**/results*/
+outputs/
+**/logs/
+*.log
+# Local caches and editors
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.idea/
+.venv/
+.env
+.env.*
+desktop.ini
+Thumbs.db
+
+# Publish only the selected example subdirectory; keep complete data outside the repository
+/data/*
+!/data/README.md
+!/data/example_data/

@@ -1,0 +1,57 @@
+{
+  "dataset_type": "example_data",
+  "n_images": 10,
+  "selection": "seed42_one_per_stage_reactor_cell_plus_one_growth",
+  "stage_counts": {
+    "growth": 4,
+    "stabilization": 3,
+    "disintegration": 3
+  },
+  "reactor_counts": {
+    "Z1": 3,
+    "Z2": 3,
+    "Z3": 4
+  },
+  "images": [
+    {
+      "image": "image11.png",
+      "sha256": "0c7662588c3128fbd302481898e8788ddac4f58deaa469a57914039bff0c6561"
+    },
+    {
+      "image": "image17.png",
+      "sha256": "ddced40ad1e5e82e7d4f123bc53fe46b9f7f30365aa277be4d67d8ce94def435"
+    },
+    {
+      "image": "image38.png",
+      "sha256": "b7f5e3fd3d07be93538445bc19f019e3aa6fec97c80ad6ad816f15c9a7116d7d"
+    },
+    {
+      "image": "image45.png",
+      "sha256": "0300a3e9e8052333d8391ebf8a1ec2777586daf29fb03801e17d05397014f38f"
+    },
+    {
+      "image": "image100.png",
+      "sha256": "8534ba0186285c633d5448999cc1dbd4f27e272ed615c21eaa882d45cd287173"
+    },
+    {
+      "image": "image113.png",
+      "sha256": "678b2f4f38a22b432da50d8b12a97f48b75f34cb15236fdbb164e9228c295b4b"
+    },
+    {
+      "image": "image116.png",
+      "sha256": "5aeee9d4c91e94141853b1de2b697dac8107aa85a72e40e60c01ecbb2f8e6c97"
+    },
+    {
+      "image": "image168.jpg",
+      "sha256": "dad4a6de6e88f367fda4fe2466cd7ddd405e95f04f5bafad7a55a0d25deade0d"
+    },
+    {
+      "image": "image176.jpg",
+      "sha256": "5a4753e482aed578c49353f08de8ff906832f9ffa5fdb71b4b10634c3d54796b"
+    },
+    {
+      "image": "image219.jpg",
+      "sha256": "f8b6a3f68858f43434ff6a33667002b102ecdf6ccf126a4c806f105dc5158911"
+    }
+  ]
+}

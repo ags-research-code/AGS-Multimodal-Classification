@@ -1,0 +1,5 @@
+{
+  "dataset_scope": "example_only",
+  "full_split_manifests_included": false,
+  "split_generator": "protocol.py"
+}

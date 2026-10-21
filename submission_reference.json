@@ -1,0 +1,11 @@
+{
+  "checked_date": "2026-10-21",
+  "document_sha256": {
+    "Manuscript.docx": "5eda785d06e64d1fb60ebab60460a51c276408daf3526bb817653b8f8020f8e4",
+    "Supporting Information.docx": "04246c1618ad5ca6846329e4a61a986eb06ab5ec8de38b6578fbd8789d7259a2",
+    "Table1.docx": "ab033b0e2b9cbaf292996262fb451799ae18b65b3f7f3b3029df82d5f6e42d23"
+  },
+  "dataset_scope": "10_examples_only",
+  "example_source_csv_sha256": "f21c1fe52dca54c4b5de286e012505bcaffa3fef0e25097b02515a826a1f0cdc",
+  "example_method_csv_sha256": "896151505f682be767d372ccf2647c70abf934977a342d41e5a038c128dd8b4e"
+}
